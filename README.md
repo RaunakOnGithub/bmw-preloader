@@ -2,7 +2,7 @@
 
 A modern and minimalist landing page concept for BMW, featuring a sophisticated preloader animation built with the GSAP library.
 
-[![Project Demo GIF](link-to-your-gif)](link-to-your-full-video)
+[![Project Demo GIF](link-to-your-gif)](https://drive.google.com/file/d/1dK8UHrM66ZfGX8d07jIzA6RDqaCKsGvN/view?usp=drivesdk)
 
 **Live Demo:** [**Click here to view the live site**](https://bmw-hero-page.netlify.app/) 🚀
 
